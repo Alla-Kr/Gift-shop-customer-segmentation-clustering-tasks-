@@ -15,4 +15,5 @@ In this project we will solve a business problem in the field of marketing. It i
 5. Design a process for predicting a client's interest category and test your model on new clients.
 
 ### Result
-[Jupyter notebook with completed tasks and conclusions](Gift shop customer segmentation (clustering tasks).ipynb)
+[Jupyter notebook with completed tasks and conclusions](Gift%20shop%20customer%20segmentation%20(clustering%20tasks).ipynb)
+
